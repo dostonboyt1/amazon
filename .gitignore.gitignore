@@ -1,0 +1,41 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!/src/main/
+!/src/test/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
+'.idea'
+'*.mvn'
+app-amazon-server/.mvn
+app-amazon-server/mvnw
+app-amazon-server/mvnw.cmd
+app-amazon-server/target
+app-amazon-server/web
+app-amazon-server/app-amazon-server.iml
+app-amazon-client/app-amazon-client.iml
+node_modules/**.idea
